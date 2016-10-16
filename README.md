@@ -5,13 +5,13 @@
 
 Készítette: Tóth Andrea
 
-**1. Követelményanalízis**
+***1. Követelményanalízis***
 
 **1.1. Célkitűzés, projektindító dokumentum**
 
 A program legfőbb célja jól átláthatóan, és érthetően megjeleníteni a bolt raktárában megtalálható különböző matracokat és tulajdonságaikat egy webes vastagkliens, azaz egyoldali alkalmazás felhasználásával Az adatok védelme érdekében legyen lehetőség regisztrációra, majd bejelentkezésre. A bejelentkezett felhasználó a matracok listáját megtekintheti, bővítheti, meglévő elemeket törölhet illetve módosíthat, kommentálhat.
 
-**Funkcionális követelmények:**
+*Funkcionális követelmények:*
 
 - Regisztrációra
 - Bejelentkezés
@@ -21,7 +21,7 @@ A program legfőbb célja jól átláthatóan, és érthetően megjeleníteni a 
   - A meglévő matracok törlésére
   - Komment írása
 
-**Nem funkcionális követelmények:**
+*Nem funkcionális követelmények:*
 
 - Könnyű áttekinthetőség: Színekkel típus szerint csoportosítás
 - Használhatóság: Könnyű áttekinthetőség, ésszerű elrendezés, könnyen kezelhetőség
@@ -69,7 +69,7 @@ Meglévő matrac szerkesztése:
 
 
 
-**2. Tervezés**
+***2. Tervezés***
 
 **2.1. Architektúra terv**
 
@@ -112,4 +112,4 @@ Bejelentkezett:
 
 **2.2. Felhasználói-felület modell**
 
-**2.2.1.Oldalvázlatok:**
+*2.2.1.Oldalvázlatok:*
