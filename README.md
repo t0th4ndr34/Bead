@@ -49,10 +49,10 @@ Vendég: Csak a publikus oldalakat éri el
 Bejelentkezett felhasználó: A publikus oldalak elérésén felül egyéb funkciókhoz is hozzáfér.
 
 - Új matrac felvétele
-- Meglévő matrac megtekintése
-- Meglévő matrac szerkesztése
-- Meglévő matrac törlése
-- Komment írása
+- Matrac megtekintése
+  - Új komment írása
+  - Matrac szerkesztése
+- Matrac törlése
 
  
 
