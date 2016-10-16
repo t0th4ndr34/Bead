@@ -36,7 +36,7 @@ Fajták:
 - Habszivacs matrac: Habszivacsból készült matrac.
 - Fedőmatrac: Normál matrac tetejére való vékonyabb matrac.
 
-Keménység: A matrac keménységéről tájékoztató adat, lehet kemény, félkemény, puha.
+Keménység: A matrac keménységéről tájékoztató adat, lehet: kemény, félkemény, puha.
 
 **1.3. Használatieset-modell, funkcionális követelmények**
 
@@ -88,10 +88,10 @@ Bejelentkezett:
 - Főoldal
 - Új matrac felvétele
 - Listaoldal
-  - matrac törlése
-  - matrac megtekintése
-    - ■■matrac szerkesztése
-    - ■■komment hozzáadása
+  - Matrac törlése
+  - Matrac megtekintése
+    - Matrac szerkesztése
+    - Komment hozzáadása
 
 **2.1.3. Végpontok**
 
@@ -105,7 +105,7 @@ Bejelentkezett:
 - GET/mattresses/new: új matrac felvétele
 - POST/mattresses/new: új matrac felvételéhez szükséges adatok felküldése
 - GET/mattresses/id: matrac adatok
-- POST/mattresses/id: új megjegyzés felvitele
+- POST/mattresses/id: új komment felvitele
 - GET/mattresses/delete=id: matrac törlése
 - GET/mattresses/edit=id: matrac módosítása
 - POST/mattresses/edit=id: matrac módosítása, adatok felküldése
