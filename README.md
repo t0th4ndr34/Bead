@@ -54,7 +54,7 @@ Bejelentkezett felhasználó: A publikus oldalak elérésén felül egyéb funkc
   - Matrac szerkesztése
 - Matrac törlése
 
- 
+![](/docs/images/nomnoml (2).png?raw=true)
 
 Vegyünk példának egy egyszerű folyamatot:
 
@@ -67,13 +67,15 @@ Meglévő matrac szerkesztése:
 5. Szerkesztés oldalon felviszi az új adatokat
 6. Küdés gombra kattintva elmenti a változásokat
 
-
+![](/docs/images/nomnoml (1).png?raw=true)
 
 ***2. Tervezés***
 
 **2.1. Architektúra terv**
 
 **2.1.1. Komponensdiagram**
+
+![](/docs/images/nomnoml (3).png?raw=true)
 
 **2.1.2. Oldaltérkép:**
 
