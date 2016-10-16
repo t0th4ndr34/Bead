@@ -115,3 +115,9 @@ Bejelentkezett:
 **2.2. Felhasználói-felület modell**
 
 *2.2.1.Oldalvázlatok:*
+![](/docs/images/foold.jpg?raw=true)
+![](/docs/images/bej.jpg?raw=true)
+![](/docs/images/reg.jpg?raw=true)
+![](/docs/images/ujm.jpg?raw=true)
+![](/docs/images/matrlist.jpg?raw=true)
+![](/docs/images/matracmegt.jpg?raw=true)
